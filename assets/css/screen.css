@@ -306,6 +306,7 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif;
+    text-transform: uppercase;
 }
 
 .mainheading h1.posttitle {
