@@ -304,8 +304,9 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-a.sitetitle {
+.sitetitle {
     font-family: sans serif;
+    font-size: 1.5rem;
 }
 
 .mainheading h1.posttitle {
