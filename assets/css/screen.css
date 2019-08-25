@@ -564,6 +564,10 @@ ul.tags li a:hover {
     display: none;
 }
 
+.alertbar img {
+    max-height: 30px;
+}
+
 .alertbar form {
     display: inline-block;
 }
