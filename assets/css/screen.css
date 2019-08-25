@@ -408,6 +408,10 @@ blockquote {
         box-shadow: none !Important;
         padding-right: 14px !Important;
     }
+    
+    .alertbar img {
+        max-height: 30px;
+    }    
 
     #comments {
         margin-right: 15px;
