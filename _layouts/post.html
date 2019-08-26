@@ -25,15 +25,15 @@ post_class: post-template
 
                 <!-- Post Date and Author -->
                 <p>
-                    <small>
-                        {% if page.author %}
-                            <span class="post-author">By {{ author.display_name }}</span>
-                            <br>
-                        {% endif %}                          
+                    <small>                       
                         <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
                         {% if page.last_modified_at %}
                         (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                        {% endif %}                   
+                        {% endif %}
+                        {% if page.author %}
+                            <br>
+                            <span class="post-author">By {{ author.display_name }}</span>
+                        {% endif %}                           
                     </small>
                 </p>                   
             </div>
