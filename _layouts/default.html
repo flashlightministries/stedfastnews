@@ -173,6 +173,27 @@ ga('send', 'pageview');
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
+	
+<script>
+  var refTagger = {
+    settings: {
+        bibleReader: "bible.faithlife",
+        bibleVersion: "KJV",
+        noSearchClassNames: ["date"],
+        noSearchTagNames: [],
+        socialSharing: [],
+        tagChapters: true
+    }
+  };
+  (function(d, t) {
+    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+    g.src = "//api.reftagger.com/v2/RefTagger.js";
+    s.parentNode.insertBefore(g, s);
+  }(document, "script"));
+    function refTag() {
+    refTagger.tag();
+  };
+</script>
 
 </body>
 </html>
