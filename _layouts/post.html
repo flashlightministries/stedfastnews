@@ -71,8 +71,6 @@ post_class: post-template
                 <!-- End Toc -->
                 {{content}}
             </div>
-            
-            <hr>
 
             <!-- Rating -->
             {% if page.rating %}
@@ -80,6 +78,8 @@ post_class: post-template
                 <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
             </div>
             {% endif %}
+            
+            <hr>            
             
             <!-- Author Box -->
             {% if page.author %}
