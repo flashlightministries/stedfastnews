@@ -20,13 +20,17 @@ permalink: /about
 <p>If the news isn't the gospel, it's bad news.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<h4>FAQ</h4>
 
-<h4>Questions or bug reports?</h4>
+<b>Q: What does "stedfast" mean?</b>
+A: Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<b>Q: Why do you spell it "stedfast" rather than "steadfast?"</b>
+A: We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
+
+<b>Q: Does that mean you're a King James Only ministry?</b>
+A: No, but we affirm the 1769 Cambridge edition of the KJV as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. We consider many other English translations to be useful commentaries on the KJV.
 
 </div>
 
