@@ -222,16 +222,19 @@ section.recent-posts {
 
 span.post-name,
 span.post-date,
+span.post-author,
 span.author-meta {
     display: inline-block;
 }
 
 span.post-date,
+span.post-author,
 span.post-read {
     color: rgba(0, 0, 0, .44);
 }
 
-span.post-date {
+span.post-date,
+span.post-author {
     font-size: 0.8rem;
 }
 
