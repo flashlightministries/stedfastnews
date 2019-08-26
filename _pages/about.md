@@ -23,7 +23,7 @@ permalink: /about
   <h4>FAQ</h4>
   <b>Q: What does "stedfast" mean?</b>
   <br>
-  <b>A:</b> Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.</b>
+  <b>A:</b> Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.
   <br><br>
   <b>Q: Why do you spell it "stedfast" rather than "steadfast?"</b>
   <br>
