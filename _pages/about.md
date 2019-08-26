@@ -21,7 +21,6 @@ permalink: /about
   <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 
   <h4>FAQ</h4>
-  <br>
   <b>Q: What does "stedfast" mean?</b>
   <br>
   <b>A:</b> Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.</b>
