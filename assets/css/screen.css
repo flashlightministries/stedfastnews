@@ -879,7 +879,7 @@ iframe {
 .spoiler:after {
     position: absolute;
     opacity: 0;
-    content: 'Click to show text';
+    content: 'Click to show censored text';
     top: 45%;
     left: calc(50% - 100px);
     text-shadow: none;
