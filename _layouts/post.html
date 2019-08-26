@@ -19,8 +19,10 @@ post_class: post-template
         {% assign author = site.authors[page.author] %}
 
         <div class="col-md-9 flex-first flex-md-unordered">
-            <div class="mainheading">
-                
+            <div class="mainheading">         
+                <!-- Post Title -->
+                <h1 class="posttitle">{{ page.title }}</h1>
+
                 <!-- Post Date -->
                 <p>
                 <small>
@@ -29,11 +31,7 @@ post_class: post-template
                     (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                     {% endif %}
                     </small>
-                </p>                
-
-                <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
-
+                </p>                       
             </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
