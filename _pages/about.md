@@ -20,18 +20,15 @@ permalink: /about
 
   <h5>FAQ</h5>
   <p>
-    <b>Q: What does "stedfast" mean?</b>
-    <br>
+    <b>Q: What does "stedfast" mean?</b><br>
     <b>A:</b> Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.
   </p>
   <p>
-    <b>Q: Why do you spell it "stedfast" rather than "steadfast?"</b>
-    <br>
+    <b>Q: Why do you spell it "stedfast" rather than "steadfast?"</b><br>
     <b>A:</b> We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
   </p>
   <p>
-    <b>Q: Does that mean you're a King James Only ministry?</b>
-    <br>
+    <b>Q: Does that mean you're a King James Only ministry?</b><br>
     <b>A:</b> No, but we affirm the KJV (1769 Cambridge edition in particular) as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. We consider many other English translations to be useful commentaries on the KJV.
   </p>
 </div>
@@ -42,6 +39,8 @@ permalink: /about
 <h5>Please support us</h5>
 
 <p>Any amount helps us continue operations and pay contributing authors. God bless.</p>
+
+<img src="{{ site.baseurl }}/assets/images/paypal-badge.png" alt="Payments through Paypal"><br>
 
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_xclick">
@@ -56,11 +55,8 @@ permalink: /about
   Payment notes:<br>
   <textarea name="os0" rows="4" cols="20"></textarea><br>
   
-  <input type="submit" class="btn btn-danger" value="Donate"><br>
+  <input type="submit" class="btn btn-danger" value="Donate">
 </form>
-
-<br>
-<img src="{{ site.baseurl }}/assets/images/paypal-badge.png" alt="Payments through Paypal">
 
 </div>
 </div>
