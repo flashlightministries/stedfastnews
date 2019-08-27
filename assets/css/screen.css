@@ -321,6 +321,11 @@ span.post-read-more a:hover {
     margin-bottom: 1rem;
 }
 
+ul.attribution {
+    list-style: none;
+    padding-left: 0;
+}
+
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
     padding-top: 15px;
