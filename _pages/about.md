@@ -55,8 +55,10 @@ permalink: /about
   Payment notes:<br>
   <textarea name="os0" rows="4" cols="20"></textarea><br>
   
-  <input type="submit" class="btn btn-danger" value="Donate">
+  <input type="submit" class="btn btn-danger" value="Donate"><br>
 </form>
+
+<img src="assets/images/paypal-badge.png" alt="Payments through Paypal">
 
 </div>
 </div>
