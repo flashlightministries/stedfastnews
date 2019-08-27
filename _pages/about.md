@@ -58,7 +58,7 @@ permalink: /about
   <input type="submit" class="btn btn-danger" value="Donate"><br>
 </form>
 
-<img src="assets/images/paypal-badge.png" alt="Payments through Paypal">
+<img src="{{ site.baseurl }}/assets/images/paypal-badge.png" alt="Payments through Paypal">
 
 </div>
 </div>
