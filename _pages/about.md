@@ -50,12 +50,12 @@ permalink: /about
   <input type="hidden" name="currency_code" value="USD">
   
   Amount:<br>
-  <input type="text" name="amount" value="" class="pp-input"><br>
+  <input type="text" name="amount" id="currency-field" pattern="^\$\d{1,4}$" value="" data-type="currency">
   
   Payment notes:<br>
   <textarea name="os0" rows="4" cols="16"></textarea><br>
   
-  <input type="button" name="PP-submit" value="Donate" class="btn btn-danger">
+  <input type="button" name="PP-submit" class="btn btn-danger" value="Donate">
 </form>
 
 </div>
