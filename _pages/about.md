@@ -52,9 +52,6 @@ permalink: /about
   Amount:<br>
   <input type="text" name="amount" size="8"><br>
   
-  Payment notes:<br>
-  <textarea name="os0" rows="4" cols="20"></textarea><br>
-  
   <input type="submit" class="btn btn-danger" value="Donate">
 </form>
 
