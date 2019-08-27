@@ -55,7 +55,7 @@ permalink: /about
   Payment notes:<br>
   <textarea name="os0" rows="4" cols="16"></textarea><br>
   
-  <input type="buttom" name="PP-submit" value="Donate" class="btn btn-danger">
+  <input type="button" name="PP-submit" value="Donate" class="btn btn-danger">
 </form>
 
 </div>
