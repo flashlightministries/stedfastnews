@@ -23,13 +23,13 @@ post_class: post-template
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
 
-                <!-- Post Date and Author -->
+                <!-- Post Date and Author attribution -->
                 <p>
                     <small>
-                        <ul>
+                        <ul class="attribution">
                             {% if page.author %}
                             <li>
-                                <a class="post-author smoothscroll" href="#author">>{{ author.display_name }}</a>
+                                <a class="post-author smoothscroll" href="#author">{{ author.display_name }}</a>
                             </li>
                             {% endif %}
                             <li>
