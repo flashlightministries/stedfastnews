@@ -45,9 +45,10 @@ permalink: /about
 
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_xclick">
-  <input type="hidden" name="business" value="donations@your-web-domain.com">
-  <input type="hidden" name="item_name" value="Donation for website">
-  <input type="hidden" name="currency_code" value="USD">
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="hidden" name="no_note" value="1">
+  <input type="hidden" name="business" value="tc@flmin.org">
+  <input type="hidden" name="item_name" value="Donation to STEDFAST News">
   
   Amount:<br>
   <input type="text" name="amount" size="8"><br>
