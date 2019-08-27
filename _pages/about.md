@@ -18,8 +18,6 @@ permalink: /about
 
   <p>If the news isn't the gospel, it's bad news.</p>
 
-  <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-
   <h4>FAQ</h4>
   <b>Q: What does "stedfast" mean?</b>
   <br>
