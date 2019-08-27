@@ -19,17 +19,21 @@ permalink: /about
   <p>If the news isn't the gospel, it's bad news.</p>
 
   <h4>FAQ</h4>
-  <b>Q: What does "stedfast" mean?</b>
-  <br>
-  <b>A:</b> Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.
-  <br><br>
-  <b>Q: Why do you spell it "stedfast" rather than "steadfast?"</b>
-  <br>
-  <b>A:</b> We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
-  <br><br>
-  <b>Q: Does that mean you're a King James Only ministry?</b>
-  <br>
-  <b>A:</b> No, but we affirm the 1769 Cambridge edition of the KJV as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. We consider many other English translations to be useful commentaries on the KJV.
+  <p>
+    <b>Q: What does "stedfast" mean?</b>
+    <br>
+    <b>A:</b> Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.
+  </p>
+  <p>
+    <b>Q: Why do you spell it "stedfast" rather than "steadfast?"</b>
+    <br>
+    <b>A:</b> We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
+  </p>
+  <p>
+    <b>Q: Does that mean you're a King James Only ministry?</b>
+    <br>
+    <b>A:</b> No, but we affirm the 1769 Cambridge edition of the KJV as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. We consider many other English translations to be useful commentaries on the KJV.
+  </p>
 </div>
 
 <div class="col-md-4">
