@@ -50,7 +50,7 @@ permalink: /about
   <input type="hidden" name="currency_code" value="USD">
   
   Amount:<br>
-  <input type="text" name="amount" id="currency-field" pattern="^\$\d{1,4}$" value="" data-type="currency" size="4">
+  <input type="text" name="amount" id="currency-field" pattern="^\$\d{1,4}$" value="" data-type="currency" size="4"><br>
   
   Payment notes:<br>
   <textarea name="os0" rows="4" cols="20"></textarea><br>
