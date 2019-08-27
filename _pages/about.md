@@ -6,7 +6,7 @@ permalink: /about
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">  
-  <p>The news, faithfully framed by the Bible.</p>
+  <p>To deliver the news, faithfully framed by the Bible.</p>
 
   <p>
     While other Christian news outlets cover stories specifically about our faith in particular&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like abortion and LGBTQ&mdash;Stedfast News is pioneering an entirely unique approach to Christian journalism: We deliver timely coverage of newsworthy events of all sorts from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events.
@@ -32,7 +32,7 @@ permalink: /about
   <p>
     <b>Q: Does that mean you're a King James Only ministry?</b>
     <br>
-    <b>A:</b> No, but we affirm the 1769 Cambridge edition of the KJV as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. We consider many other English translations to be useful commentaries on the KJV.
+    <b>A:</b> No, but we affirm the KJV (1769 Cambridge edition in particular) as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. We consider many other English translations to be useful commentaries on the KJV.
   </p>
 </div>
 
