@@ -41,7 +41,7 @@ permalink: /about
 <div class="sticky-top sticky-top-80">
 <h5>Please support us</h5>
 
-<p>Your donation helps us continue operations.</p>
+<p>Any amount helps us continue operations and pay contributing authors. God bless.</p>
 
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_xclick">
