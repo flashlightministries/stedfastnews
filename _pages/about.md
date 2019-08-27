@@ -44,8 +44,7 @@ permalink: /about
 
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_xclick">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="no_note" value="1">
+  <input type="hidden" name="currency_code" value="USD">
   <input type="hidden" name="business" value="tc-notactive@flmin.org">
   <input type="hidden" name="item_name" value="Donation to STEDFAST News">
   
