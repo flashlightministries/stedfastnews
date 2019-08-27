@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'stedfast-news'
-mailchimp-list: 'https://mailchi.mp/b6d58213d3b3/stedfastnews'
+mailchimp-list: 'https://stedfastnews.us3.list-manage.com/subscribe?u=7ee8bb30ad7373bf8dfdfd239&id=f2cf03b92b'
 include: ["_pages"]
 permalink: /:title/
 
