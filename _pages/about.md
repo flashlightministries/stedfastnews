@@ -43,7 +43,20 @@ permalink: /about
 
 <p>Your donation helps us continue operations.</p>
 
-<a target="_blank" href="xyz" class="btn btn-danger">Donate</a>
+<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="margin: 20px 0px 20px 0px;">
+  <input type="hidden" name="cmd" value="_xclick">
+  <input type="hidden" name="business" value="donations@your-web-domain.com">
+  <input type="hidden" name="item_name" value="Donation for website">
+  <input type="hidden" name="currency_code" value="USD">
+  
+  Amount:<br>
+  <input type="text" name="amount" value="" class="pp-input"><br>
+  
+  Payment notes:<br>
+  <textarea name="os0" rows="4" cols="16" style="width: 130px; margin: 3px 0px 3px 0px;"></textarea><br>
+  
+  <input type="text" name="PP-submit" value="Donate" class="btn btn-danger"><br>
+</form>
 
 </div>
 </div>
