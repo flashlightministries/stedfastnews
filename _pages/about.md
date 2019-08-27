@@ -49,7 +49,7 @@ permalink: /about
   <input type="hidden" name="item_name" value="Donation to STEDFAST News">
   
   Amount:<br>
-  <input type="text" name="amount" size="8"><br>
+  <input type="text" name="amount" size="8"><br><br>
   
   <input type="submit" class="btn btn-danger" value="Donate">
 </form>
