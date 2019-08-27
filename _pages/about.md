@@ -18,7 +18,7 @@ permalink: /about
 
   <p>If the news isn't the gospel, it's bad news.</p>
 
-  <h4>FAQ</h4>
+  <h5>FAQ</h5>
   <p>
     <b>Q: What does "stedfast" mean?</b>
     <br>
