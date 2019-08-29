@@ -13,7 +13,7 @@ permalink: /about
   </p>
 
   <p>
-    Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats.
+    Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and especially the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats.
   </p>
 
   <p>If the news isn't the gospel, it's bad news.</p>
