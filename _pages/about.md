@@ -9,7 +9,11 @@ permalink: /about
   <p>To deliver the news, faithfully framed by the Bible.</p>
 
   <p>
-    While other Christian news outlets cover stories specifically about our faith in particular&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like LGBTQ and abortion&mdash;we're pioneering an entirely unique approach to Christian journalism: STEDFAST News delivers timely coverage of the full range of newsworthy events from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events. We call this novel journalistic technique Biblical News Analysis (BNA).
+    While other Christian news outlets cover stories specifically about our faith in particular&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like LGBTQ and abortion&mdash;we're pioneering an entirely unique approach to Christian journalism: STEDFAST News delivers timely coverage of the full range of newsworthy events from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events.
+  </p>
+  
+  <p>
+    We call this novel journalistic technique Biblical News Analysis (BNA). While the unbeliever may consider articles written using BNA to constitute mere opinion (Christian opinion, in the case), the intent of BNA is to render quite the opposite result (Proverbs 3:5-6). Indeed, we maintain that objective truth is found only in the word of God and can only be known by the indwelling of the Holy Spirit, and everything else constitutes the mere opinions of men (2 Peter 1:20-21). Our spiritual and journalistic mission, then, is to allow God to take every subjective perception and thought captive in obedience to Christ, so that the truth may be revealed to those with ears to hear it (2 Corinthians 3-6).
   </p>
 
   <p>
