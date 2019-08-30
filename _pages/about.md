@@ -53,7 +53,7 @@ permalink: /about
   </p>    
   <p>
     <b>Q: What's your denomination?</b><br>
-    <b>A:</b> Call us Bible-believing Christians. We believe that Satan seeks to destroy the church by dividing it, and this division is evident in the nit-picking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and our creator, that His Son Jesus Christ is Lord, the Word made flesh, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns as King of kings with His Holy Spirit indwelling us as believers and testifying to the truth of infallible scripture in the Bible, then we're brothers and sisters in the same faith called Christianity.
+    <b>A:</b> Call us Bible-believing Christians. We believe that Satan seeks to destroy the church by dividing it, and this division is evident in the nit-picking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and the only God, that God is eternal, that His Son Jesus Christ is Lord, the Word made flesh, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns as King of kings with His Holy Spirit indwelling us as believers and testifying to the truth of infallible scripture in the Bible, then we're brothers and sisters in the same faith called Christianity.
   </p>      
 </div>
 
