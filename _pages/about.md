@@ -54,7 +54,12 @@ permalink: /about
   <p>
     <b>Q: What's your denomination?</b><br>
     <b>A:</b> Call us Bible-believing Christians. We believe that Satan seeks to destroy the church by dividing it, and this division is evident in the nitpicking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and the eternal creator of all, that His only begotten Son Jesus Christ is Lord, the Word made flesh, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns as King of kings with His Holy Spirit indwelling us as believers and testifying to the truth of infallible scripture in the Bible, then we're brothers and sisters in the same faith called Christianity.
-  </p>      
+  </p>     
+  <p>
+    <b>Q: How can I help your mission at STEDFAST News?</b><br>
+    <b>A:</b> First of all, pray for us and provide your feedback by <a href="mailto:editor@stedfastnews.com">sending us an email</a>. Secondly, if you're a student of scripture and a Christian with writing skills, we will lovingly welcome your contributions and compensate you accordingly. Finally, if you feel so compelled, please donate using the link on this page.
+  </p>  
+  <p>  
 </div>
 
 <div class="col-md-4">
