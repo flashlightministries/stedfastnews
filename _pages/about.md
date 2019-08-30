@@ -6,30 +6,43 @@ permalink: /about
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">  
-  To deliver the news, faithfully framed by the Bible.
+  <p>To deliver the news, faithfully framed by the Bible.</p>
 
-  xWhile other Christian news outlets cover stories specifically about our faith in particular&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like LGBTQ and abortion&mdash;we're pioneering an entirely unique approach to Christian journalism: STEDFAST News delivers timely coverage of the full range of newsworthy events from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events.
+  <p>
+    While other Christian news outlets cover stories specifically about our faith in particular&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like LGBTQ and abortion&mdash;we're pioneering an entirely unique approach to Christian journalism: STEDFAST News delivers timely coverage of the full range of newsworthy events from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events.
+  </p>
   
-  We call this novel journalistic technique Biblical News Analysis (BNA). While the unbeliever may consider articles written using BNA to constitute mere opinion (Christian opinion, in the case), the intent of BNA is to render quite the opposite result (Proverbs 3:5-6). Indeed, we maintain that objective truth is found only in the word of God and can only be known by the indwelling of the Holy Spirit, and everything else constitutes the mere opinions of men (2 Peter 1:20-21). Our spiritual and journalistic mission, then, is to allow God to take every subjective perception and thought captive in obedience to Christ, so that the truth may be revealed to those with ears to hear it (2 Corinthians 10:3-6).
+  <p>
+    We call this novel journalistic technique Biblical News Analysis (BNA). While the unbeliever may consider articles written using BNA to constitute mere opinion (Christian opinion, in the case), the intent of BNA is to render quite the opposite result (Proverbs 3:5-6). Indeed, we maintain that objective truth is found only in the word of God and can only be known by the indwelling of the Holy Spirit, and everything else constitutes the mere opinions of men (2 Peter 1:20-21). Our spiritual and journalistic mission, then, is to allow God to take every subjective perception and thought captive in obedience to Christ, so that the truth may be revealed to those with ears to hear it (2 Corinthians 10:3-6).
+  </p>
 
-  You'll find our articles to be highly critical of articles from other media sources, but that's because the Bible condemns the godless worldview that frames their coverage. It's nothing personal. We believe that proper analysis of world events usually involves an analysis of how the world interprets those events, and since the primary objective of BNA is to provide the biblical perspective that is missing in secular media, the articles on STEDFAST News often involve stern but Bible-based criticism of the news media itself.
+  <p>
+    You'll find our articles to be highly critical of articles from other media sources, but that's because the Bible condemns the godless worldview that frames their coverage. It's nothing personal. We believe that proper analysis of world events usually involves an analysis of how the world interprets those events, and since the primary objective of BNA is to provide the biblical perspective that is missing in secular media, the articles on STEDFAST News often involve stern but Bible-based criticism of the news media itself.
+  </p>
 
-  Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and especially the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats.
+  <p>
+    Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and especially the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats.
+  </p>
 
-  If the news isn't the gospel, it's bad news.
+  <p>If the news isn't the gospel, it's bad news.</p>
 
   <h5>FAQ</h5>
+  <p>
     <b>Q: What does <i>stedfast</i> mean?</b><br>
     <b>A:</b> Same as the word <i>steadfast</i>: Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.
-
-  <b>Q: Why do you spell it <i>stedfast</i> rather than <i>steadfast?</i></b><br>
-  <b>A:</b> We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
-
-  <b>Q: Does that mean you're a King James Only ministry?</b><br>
-  <b>A:</b> No, but we affirm the KJV (1769 Cambridge edition in particular) as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. While we don't recommend serious Bible study using paraphrase translations like the NLT, GNT and CEV, and we strongly disavow the use of cultish abberations like the NWT, we consider some other English translations, such as the NASB, NIV and ESV, to be useful commentaries on the KJV.
-
-  <b>Q: But the KJV is too hard to read...</b><br>
-  <b>A:</b> That's not a question.
+  </p>
+  <p>
+    <b>Q: Why do you spell it <i>stedfast</i> rather than <i>steadfast?</i></b><br>
+    <b>A:</b> We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
+  </p>
+  <p>
+    <b>Q: Does that mean you're a King James Only ministry?</b><br>
+    <b>A:</b> No, but we affirm the KJV (1769 Cambridge edition in particular) as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. While we don't recommend serious Bible study using paraphrase translations like the NLT, GNT and CEV, and we strongly disavow the use of cultish abberations like the NWT, we consider some other English translations, such as the NASB, NIV and ESV, to be useful commentaries on the KJV.
+  </p>
+  <p>
+    <b>Q: But the KJV is too hard to read...</b><br>
+    <b>A:</b> That's not a question.
+  </p>  
 </div>
 
 <div class="col-md-4">
