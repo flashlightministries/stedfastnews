@@ -16,8 +16,12 @@ permalink: /about
     We call this novel journalistic technique Biblical News Analysis (BNA). While the unbeliever may consider articles written using BNA to constitute mere opinion (Christian opinion, in the case), the intent of BNA is to render quite the opposite result (Proverbs 3:5-6). Indeed, we maintain that objective truth is found only in the word of God and can only be known by the indwelling of the Holy Spirit, and everything else constitutes the mere opinions of men (2 Peter 1:20-21). Our spiritual and journalistic mission, then, is to allow God to take every subjective perception and thought captive in obedience to Christ, so that the truth may be revealed to those with ears to hear it (2 Corinthians 10:3-6).
   </p>
 
+  </p>
+  You'll find our articles to be highly critical of articles from other media sources, but that's because the Bible condemns the godless worldview that frames their coverage. It's nothing personal. We believe that proper analysis of world events usually involves an analysis of how the world interprets those events, and since the primary objective of BNA is to provide the biblical perspective that is missing in secular media, the articles on STEDFAST News often involve stern but Bible-based criticism of the news media itself.
+  </p>
+
   <p>
-    Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and especially the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats. Often, you'll find our articles to be highly critical of other media, but that's because the Bible condemns the godless worldview that frames their coverage.
+    Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and especially the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats.
   </p>
 
   <p>If the news isn't the gospel, it's bad news.</p>
