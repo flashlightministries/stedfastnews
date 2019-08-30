@@ -43,6 +43,10 @@ permalink: /about
     <b>Q: But the KJV is too hard to read...</b><br>
     <b>A:</b> That's not a question.
   </p>  
+  <p>
+    <b>Q: Isn't the KJV too hard to read?</b><br>
+    <b>A:</b> No. Invest an hour or two reading it, and you'll get used to it and realize the rewards. Don't be lazy.
+  </p>    
 </div>
 
 <div class="col-md-4">
