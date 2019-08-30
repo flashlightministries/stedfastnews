@@ -17,7 +17,7 @@ permalink: /about
   </p>
 
   <p>
-    You'll find our articles to be highly critical of articles from other media sources, but that's because the Bible condemns the godless worldview that frames their coverage. It's nothing personal. We believe that proper analysis of world events usually involves an analysis of how the world interprets those events, and since the primary objective of BNA is to provide the biblical perspective that is missing in secular media, the articles on STEDFAST News often involve stern but Bible-based criticism of the news media itself.
+    You'll find our articles to be highly critical of articles from other media sources, but that's because the Bible condemns the godless worldview that frames their coverage. It's nothing personal. We believe that proper analysis of world events involves an analysis of how the world interprets those events in contrast to the Bible, and since the primary objective of BNA is to provide the biblical perspective that is missing in secular media, the articles on STEDFAST News often involve stern but Bible-based criticism of the news media itself.
   </p>
 
   <p>
