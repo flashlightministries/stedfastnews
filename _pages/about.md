@@ -28,7 +28,7 @@ permalink: /about
     <b>A:</b> Same as the word <i>steadfast</i>: Faithful, true, devoted, unflinching, relentless, firmly fixed. See Hebrews 6:19.
   </p>
   <p>
-    <b>Q: Why do you spell it "stedfast" rather than "steadfast?"</b><br>
+    <b>Q: Why do you spell it <i>stedfast</i> rather than <i>steadfast?</i></b><br>
     <b>A:</b> We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
   </p>
   <p>
