@@ -41,7 +41,7 @@ permalink: /about
   </p>
   <p>
     <b>Q: Does that mean you're a King James Only ministry?</b><br>
-    <b>A:</b> No, but we affirm the KJV (1769 Cambridge edition in particular) as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. While we don't recommend serious Bible study using paraphrase translations like the NLT, GNT and CEV, and we strongly disavow the use of cultish abberations like the NWT, we consider some other English translations, such as the NASB, NIV and ESV, to be useful commentaries on the KJV.
+    <b>A:</b> No, but we affirm the KJV (1769 Cambridge edition in particular) as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. While we don't recommend serious Bible study using paraphrase translations like the NLT, GNT and CEV, and we strongly disavow the use of cultish abberations like the NWT, we consider some other English translations, such as the NASB, NIV and ESV, to be useful commentaries on the KJV. We believe in the historical guiding providence of the KJV, and that higher criticism and argumentation based around the age of the Alexandrian text-type artifacts amount to the materialistic and conjectural reasoning of Darwinism and Big Bang cosmology.
   </p>
   <p>
     <b>Q: But the KJV is too hard to read...</b><br>
