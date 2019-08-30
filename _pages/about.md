@@ -13,7 +13,7 @@ permalink: /about
   </p>
   
   <p>
-    We call this novel journalistic technique Biblical News Analysis (BNA). While the unbeliever may consider articles written using BNA to constitute mere opinion (Christian opinion, in the case), the intent of BNA is to render quite the opposite result (Proverbs 3:5-6). Indeed, we maintain that objective truth is found only in the word of God and can only be known by the indwelling of the Holy Spirit, and everything else constitutes the mere opinions of men (2 Peter 1:20-21). Our spiritual and journalistic mission, then, is to take every subjective journalistic perception and thought captive to the obedience of Christ, so that the truth may be revealed to those with ears to hear it (2 Corinthians 10:3-6).
+    We call this novel journalistic technique Biblical News Analysis (BNA). While the unbeliever may consider articles written using BNA to constitute mere opinion (Christian opinion, in the case), the intent of BNA is to render quite the opposite result (Proverbs 3:5-6). Indeed, we maintain that objective truth is found only in the word of God and can only be known by the indwelling of the Holy Spirit, and everything else constitutes the mere opinions of men (2 Peter 1:20-21). Our spiritual and journalistic mission, then, is to take every subjective perception and thought captive to the obedience of Christ, so that the truth may be revealed to those with ears to hear it (2 Corinthians 10:3-6).
   </p>
 
   <p>
