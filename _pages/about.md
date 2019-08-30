@@ -9,7 +9,7 @@ permalink: /about
   <p>To deliver the news, faithfully framed by the Bible.</p>
 
   <p>
-    While other Christian news outlets cover stories specifically related to the faith&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like LGBTQ and abortion&mdash;we're pioneering an entirely unique approach to Christian journalism: STEDFAST News delivers timely coverage of the full range of newsworthy events from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events.
+    While other Christian news outlets cover stories specifically related to the faith in particular&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like LGBTQ and abortion&mdash;we're pioneering an entirely unique approach to Christian journalism: STEDFAST News delivers timely coverage of the full range of newsworthy events from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events.
   </p>
   
   <p>
@@ -22,6 +22,10 @@ permalink: /about
 
   <p>
     Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and especially the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats.
+  </p>
+  
+  <p>
+    STEDFAST News is fiercely Bible-dependent and world-independent, adhering to scripture alone in all matters covered by scripture. We don't fall into typical political, economic or social categories, which means, from time to time, you'll be offended by our perspective if your presuppositions deviate from biblical doctrine. We welcome your feedback, and we eagerly seek to correct our errors if they can be shown to exist based on biblical exegesis.
   </p>
 
   <p>If the news isn't the gospel, it's bad news.</p>
