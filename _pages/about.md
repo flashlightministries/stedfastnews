@@ -59,6 +59,7 @@ permalink: /about
     <b>Q: How can I help your mission at STEDFAST News?</b><br>
     <b>A:</b> First of all, pray for us and provide your feedback by <a href="mailto:editor@stedfastnews.com">sending us an email</a>. Secondly, if you're a student of scripture and a Christian with writing skills, we will lovingly welcome your contributions and compensate you accordingly. Finally, if you feel so compelled, please donate using the link on this page.
   </p>
+</div>
 
 <div class="col-md-4">
 
