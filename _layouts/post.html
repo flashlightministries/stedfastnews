@@ -44,12 +44,6 @@ post_class: post-template
             </div>
             <!-- End Post Date and Author attribution -->
 
-            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-            {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
-            {% endif %}
-            <!-- End Adsense -->
-
             <!-- Post Featured Image -->
             {% if page.image %}
 
@@ -140,6 +134,12 @@ post_class: post-template
             <div class="clearfix"></div>
             </div>
             <!-- End Categories -->
+            
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
+                {% include adsense-under-header.html %}
+            {% endif %}
+            <!-- End Adsense -->            
 
         </div>
         <!-- End Post -->
