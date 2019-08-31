@@ -136,9 +136,11 @@ post_class: post-template
             <!-- End Categories -->
             
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            <div class="row">
             {% if site.adsense == "enabled" %}
                 {% include adsense-under-header.html %}
             {% endif %}
+            </div>
             <!-- End Adsense -->            
 
         </div>
