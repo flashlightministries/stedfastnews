@@ -57,7 +57,7 @@ permalink: /about
   </p>     
   <p>
     <b>Q: How can I help your mission at STEDFAST News?</b><br>
-    <b>A:</b> First of all, pray for us and provide your feedback by <a href="mailto:editor@stedfastnews.com">sending us an email</a>. Secondly, if you're a student of scripture and a Christian with writing skills, we will lovingly welcome your contributions and compensate you accordingly. Finally, if you feel so compelled, please donate using the link on this page.
+    <b>A:</b> First of all, pray for us and provide your feedback by <a href="mailto:{{ site.email }}">sending us an email</a>. Secondly, if you're a student of scripture and a Christian with writing skills, we will lovingly welcome your contributions and compensate you accordingly. Finally, if you feel so compelled, please donate using the link on this page.
   </p>
 </div>
 
@@ -73,7 +73,7 @@ permalink: /about
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_xclick">
   <input type="hidden" name="currency_code" value="USD">
-  <input type="hidden" name="business" value="tc@flmin.org">
+  <input type="hidden" name="business" value="{{ site.paypal }}">
   <input type="hidden" name="item_name" value="Donation to STEDFAST News">
   
   Amount:<br>
