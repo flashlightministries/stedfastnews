@@ -10,6 +10,9 @@ disqus: 'stedfast-news'
 mailchimp-list: 'https://stedfastnews.us3.list-manage.com/subscribe?u=7ee8bb30ad7373bf8dfdfd239&id=f2cf03b92b'
 include: ["_pages"]
 permalink: /:title/
+markdown: kramdown
+email: editor@stedfastnews.com
+paypal: tc@flmin.org
 
 # Authors
 authors:
@@ -41,11 +44,6 @@ jekyll-archives:
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
-email: editor@stedfastnews.com
-paypal: tc@flmin.org
 
 kramdown:
   input: GFM
