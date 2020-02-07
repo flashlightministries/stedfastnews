@@ -44,20 +44,12 @@ permalink: /about
     <b>A:</b> We use the older spelling as a nod to the Authorized Version of the Bible, otherwise known as the King James Version (KJV), which we prefer as an English translation.
   </p>
   <p>
-    <b>Q: Does that mean you're a King James Only ministry?</b><br>
-    <b>A:</b> No, but we affirm the KJV (1769 Cambridge edition in particular) as the best English translation in existence. It's a fixed standard, doctrinally sound and beautifully rendered. While we don't recommend serious Bible study using paraphrase translations like the NLT, GNT and CEV, and we strongly disavow the use of cultish abberations like the NWT, we consider some other English translations, such as the NASB, NIV and ESV, to be useful commentaries on the KJV. We believe that God has ordained the English-speaking church to use the KJV, an ecclesiastical standard arrived at historically and providentally like the biblical canon itself, and that higher criticism and argumentation based around the older age of the Alexandrian text-type artifacts amount to materialistic and theorectical conjecture akin to Darwinism and Big Bang cosmology. That is to say, if you reject the KJV, then you ought to reject the canon as well.
-  </p>
-  <p>
-    <b>Q: But the KJV is too hard to read...</b><br>
-    <b>A:</b> That's not a question.
+    <b>Q: Are you a King James Only ministry?</b><br>
+    <b>A:</b> No.
   </p>  
   <p>
-    <b>Q: Isn't the KJV too hard to read?</b><br>
-    <b>A:</b> No. Invest an hour or two reading it, and you'll get used to it and realize the rewards. Don't be lazy.
-  </p>    
-  <p>
     <b>Q: What's your denomination?</b><br>
-    <b>A:</b> We're Bible-believing Christians. We believe that Satan seeks to destroy the church by dividing it, and this division is evident in the nitpicking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and the eternal creator of all, that His only begotten Son Jesus Christ is Lord, the Word made flesh, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns as King of kings with His Holy Spirit indwelling us as believers and testifying to the truth of infallible scripture in the Bible, then we're brothers and sisters in the same faith called Christianity.
+    <b>A:</b> We're Bible-believing Christians. We believe that it's evil to seek to destroy the church by dividing it, and this division is evident in the nitpicking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and the eternal creator of all, that His only begotten Son Jesus Christ is Lord, the Word made flesh, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns as King of kings with His Holy Spirit indwelling us as believers and testifying to the truth of infallible scripture in the Bible, then we're brothers and sisters in the same faith called Christianity.
   </p>     
   <p>
     <b>Q: How can I help your mission at STEDFAST News?</b><br>
