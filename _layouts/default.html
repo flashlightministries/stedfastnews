@@ -177,12 +177,11 @@ ga('send', 'pageview');
 <script>
   var refTagger = {
     settings: {
-        bibleReader: "bible.faithlife",
-        bibleVersion: "KJV",
-        noSearchClassNames: ["date"],
-        noSearchTagNames: [],
-        socialSharing: [],
-        tagChapters: true
+      bibleReader: "bible.faithlife",
+      bibleVersion: "KJV",
+      noSearchClassNames: ["date"],			
+      socialSharing: [],
+      tagChapters: true
     }
   };
   (function(d, t) {
@@ -190,9 +189,6 @@ ga('send', 'pageview');
     g.src = "//api.reftagger.com/v2/RefTagger.js";
     s.parentNode.insertBefore(g, s);
   }(document, "script"));
-    function refTag() {
-    refTagger.tag();
-  };
 </script>
 
 <!--
