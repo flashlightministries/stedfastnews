@@ -49,7 +49,7 @@ permalink: /about
   </p>
   <p>
     <b>Q: What's your denomination?</b><br>
-    <b>A:</b> We're Bible-believing Christians. We believe that it's evil to seek to destroy the church by dividing it, and this division is evident in the nitpicking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and the eternal creator of all, that His only begotten Son Jesus Christ is Lord, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns at the right hand of God, then we're brothers and sisters in the same faith called Christianity.
+    <b>A:</b> We're Bible-believing Christians. If you believe that God is one and the eternal creator of all, that His only begotten Son Jesus Christ is Lord, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns at the right hand of God, then we're brothers and sisters in the same faith called Christianity.
   </p>
   <p>
     <b>Q: How can I help your mission at STEDFAST News?</b><br>
