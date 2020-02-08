@@ -8,6 +8,8 @@ source:
     headline: "Why the only future worth building includes everyone"
 image: assets/images/articles/2017-04-26-pope-humanistic-message/pope.jpg
 comments: false
+featured: true
+hidden: true
 ---
 
 My brief impression of the pope's "surprise" (pre-recorded) TED talk:

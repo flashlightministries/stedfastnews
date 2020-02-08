@@ -9,6 +9,8 @@ source:
     headline: ANALEMMA TOWER
 image: assets/images/articles/2017-03-30-analemma-tower/analemma-tower.jpg
 comments: false
+featured: true
+hidden: true
 ---
 
 Perhaps you've seen this story in mainstream news over the last week. Forbes, NBC, CNN -- all the big media players -- are talking about it. The idea is to suspend an extremely tall tower, almost two miles in height, over the surface of the earth, hanging by cables from an asteroid captured and entrained into geosynchronous orbit over New York. Go read about it now, then come back.
