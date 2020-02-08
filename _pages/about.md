@@ -5,19 +5,19 @@ permalink: /about
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">  
+<div class="col-md-8 pr-5">
   <p>To deliver the news, faithfully framed by the Bible.</p>
 
   <p>
     While other Christian news outlets cover stories specifically related to the faith in particular&mdash;denominational church matters, end-times prophecy, the modern state of Israel, conservative politics, hot-button social issues like LGBTQ and abortion&mdash;we're pioneering an entirely unique approach to Christian journalism: STEDFAST News delivers timely coverage of the full range of newsworthy events from a strictly biblical worldview, faithfully conforming our perspective to scriptural doctrine in order to teach and edify our brothers and sisters in Christ Jesus, and ultimately, to build up His church and glorify His name. By using the news of the world as a topical platform for expository preaching and daily devotion, we enable Christians to study God's word while they catch up on current events.
   </p>
-  
+
   <p>
     Readers of STEDFAST News can expect to find the full spectrum of breaking news articles regarding politics, international affairs, business, crime, entertainment, science, technology and especially the news media itself&mdash;all with a biblical focus centered around the gospel of Jesus Christ. Of course, as a Christian news organization, we also cover the usual Christian beats.
-  </p>  
-  
-  <h5>Biblical News Analysis</h5>  
-  
+  </p>
+
+  <h5>Biblical News Analysis</h5>
+
   <p>
     We call our novel journalistic approach Biblical News Analysis (BNA). While the unbeliever may consider articles written using BNA to constitute mere opinion (Christian opinion, in the case), the intent of BNA is to render quite the opposite result (Proverbs 3:5-6). Indeed, we maintain that objective truth is found only in the word of God and can only be known by the indwelling of the Holy Spirit, and everything else constitutes the mere opinions of men (2 Peter 1:20-21). Our spiritual and journalistic mission, then, is to take every subjective perception and thought captive to the obedience of Christ, so that the truth may be revealed to those with ears to hear it (2 Corinthians 10:3-6).
   </p>
@@ -25,9 +25,9 @@ permalink: /about
   <p>
     You'll find our articles to be highly critical of articles from other media sources, but that's because the Bible condemns the godless worldview that frames their coverage. It's nothing personal. We believe that proper analysis of world events involves an analysis of how the world interprets those events in contrast to the Bible, and since the primary objective of BNA is to provide the biblical perspective that is missing in secular media, the articles on STEDFAST News often involve stern but Bible-based criticism of the news media itself.
   </p>
-  
+
   <h5>Adherence to Scripture</h5>
-  
+
   <p>
     STEDFAST News is fiercely Bible-dependent and world-independent, adhering to scripture alone in all matters covered by scripture. We don't fall into typical political, economic or social categories, which means, from time to time, you'll be offended by our perspective if your presuppositions deviate from biblical doctrine. We welcome your feedback, and we eagerly seek to correct our errors if they can be shown to exist based on biblical exegesis.
   </p>
@@ -46,11 +46,11 @@ permalink: /about
   <p>
     <b>Q: Are you a King James Only ministry?</b><br>
     <b>A:</b> No.
-  </p>  
+  </p>
   <p>
     <b>Q: What's your denomination?</b><br>
-    <b>A:</b> We're Bible-believing Christians. We believe that it's evil to seek to destroy the church by dividing it, and this division is evident in the nitpicking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and the eternal creator of all, that His only begotten Son Jesus Christ is Lord, the Word made flesh, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns as King of kings with His Holy Spirit indwelling us as believers and testifying to the truth of infallible scripture in the Bible, then we're brothers and sisters in the same faith called Christianity.
-  </p>     
+    <b>A:</b> We're Bible-believing Christians. We believe that it's evil to seek to destroy the church by dividing it, and this division is evident in the nitpicking denominational distinctions that attempt to tear down rather than build up Christ's true church. If you believe that God is one and the eternal creator of all, that His only begotten Son Jesus Christ is Lord, that He died for our sins, was raised bodily by the Father, ascended to heaven and now reigns at the right hand of God, then we're brothers and sisters in the same faith called Christianity.
+  </p>
   <p>
     <b>Q: How can I help your mission at STEDFAST News?</b><br>
     <b>A:</b> First of all, pray for us and provide your feedback by <a href="mailto:{{ site.email }}">sending us an email</a>. Secondly, if you're a student of scripture and a Christian with writing skills, we will lovingly welcome your contributions and compensate you accordingly. Finally, if you feel so compelled, please donate using the link on this page.
@@ -71,10 +71,10 @@ permalink: /about
   <input type="hidden" name="currency_code" value="USD">
   <input type="hidden" name="business" value="{{ site.paypal }}">
   <input type="hidden" name="item_name" value="Donation to STEDFAST News">
-  
+
   Amount:<br>
   <input type="text" name="amount" size="8"><br><br>
-  
+
   <input type="submit" class="btn btn-danger" value="Donate">
 </form>
 
