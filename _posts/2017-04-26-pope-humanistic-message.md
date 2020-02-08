@@ -6,7 +6,7 @@ source:
     name: TED
     url: https://www.ted.com/talks/pope_francis_why_the_only_future_worth_building_includes_everyone?language=en
     headline: "Why the only future worth building includes everyone"
-image: articles/2017-04-26-pope-humanistic-message/pope.jpg
+image: assets/images/articles/2017-04-26-pope-humanistic-message/pope.jpg
 comments: false
 ---
 

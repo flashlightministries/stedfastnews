@@ -7,7 +7,7 @@ source:
     name: Clouds AO
     url: http://www.cloudsao.com/ANALEMMA-TOWER
     headline: ANALEMMA TOWER
-image: articles/2017-03-30-analemma-tower/analemma-tower.jpg
+image: assets/images/articles/2017-03-30-analemma-tower/analemma-tower.jpg
 comments: false
 ---
 

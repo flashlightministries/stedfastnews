@@ -7,7 +7,7 @@ source:
     name: The Atlantic
     url: https://www.theatlantic.com/science/archive/2017/12/yuri-milner-oumuamua-interstellar-asteroid/547985/
     headline: Astronomers to Check Mysterious Interstellar Object for Signs of Technology
-image: articles/2017-12-11-interstellar-turpitude/interstellar-object.jpg
+image: assets/images/articles/2017-12-11-interstellar-turpitude/interstellar-object.jpg
 comments: false
 ---
 

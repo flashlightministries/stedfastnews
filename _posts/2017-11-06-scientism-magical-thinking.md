@@ -3,7 +3,7 @@ layout: post
 title: The magical thinking underlying scientism
 author: tc
 passage: Romans 1:22-23
-image: articles/2017-11-06-scientism-magical-thinking/fairy-godmother.png
+image: assets/images/articles/2017-11-06-scientism-magical-thinking/fairy-godmother.png
 comments: false
 ---
 

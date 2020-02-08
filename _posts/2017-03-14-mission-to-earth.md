@@ -7,7 +7,7 @@ source:
     name: Florida Today
     url: http://www.floridatoday.com/story/tech/science/space/2017/03/14/lockheed-martin-says-mars-base-camp-possible-2028/99123052/
     headline: "Lockheed Martin says Mars Base Camp possible by 2028"
-image: articles/2017-03-14-mission-to-earth/earth.jpg
+image: assets/images/articles/2017-03-14-mission-to-earth/earth.jpg
 comments: false
 ---
 

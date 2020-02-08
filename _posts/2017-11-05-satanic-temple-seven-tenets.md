@@ -7,7 +7,7 @@ source:
     name: The Satanic Temple
     url: https://thesatanictemple.com/pages/tenets
     headline: TENETS
-image: articles/2017-11-05-satanic-temple-seven-tenets/satanic-temple.jpg
+image: assets/images/articles/2017-11-05-satanic-temple-seven-tenets/satanic-temple.jpg
 comments: false
 ---
 

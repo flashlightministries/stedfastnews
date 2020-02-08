@@ -6,7 +6,7 @@ source:
     name: TED
     url: https://blog.ted.com/what-will-the-future-look-like-elon-musk-speaks-at-ted2017/
     headline: "What will the future look like? Elon Musk speaks at TED2017"
-image: articles/2017-04-29-musk-one-planet-depressing/musk.jpg
+image: assets/images/articles/2017-04-29-musk-one-planet-depressing/musk.jpg
 comments: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Bill Nye exemplifies the world
 author: tc
 passage: Genesis 1:27
-image: articles/2017-04-26-bill-nye-exemplifies-world/bill-nye-saves-world.jpg
+image: assets/images/articles/2017-04-26-bill-nye-exemplifies-world/bill-nye-saves-world.jpg
 comments: false
 ---
 

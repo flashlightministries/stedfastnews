@@ -7,7 +7,7 @@ source:
     name: Facebook user Lisa Tucker
     url: https://www.facebook.com/photo.php?fbid=10151312166576222&set=a.10150829302276222.394506.674531221&type=3&theater
     headline: SO LET ME GET THIS STRAIGHT
-image: articles/2018-06-30-love-the-stranger/cage.jpg
+image: assets/images/articles/2018-06-30-love-the-stranger/cage.jpg
 comments: false
 ---
 

@@ -7,7 +7,7 @@ source:
     name: The MIT Haystack Observatory
     url: https://www.haystack.mit.edu/hay/staff/jball/etiy.pdf
     headline: "Extraterrestrial Intelligence: Where is Everybody?"
-image: articles/2017-12-31-founded-upon-a-rock/alien.jpg
+image: assets/images/articles/2017-12-31-founded-upon-a-rock/alien.jpg
 comments: false
 ---
 
